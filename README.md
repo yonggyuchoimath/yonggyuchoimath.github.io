@@ -1,9 +1,3 @@
-<!-- 
-To run the site, run the following command on cmd:
-bundle install
-bundle exec jekyll serve --lsi
--->
-
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
