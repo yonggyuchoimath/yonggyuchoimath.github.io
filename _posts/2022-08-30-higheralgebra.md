@@ -102,7 +102,7 @@ date:   2022-08-30
     </li>
 
     <li>
-        <p>Smash product of spectra infinity-category of spectra (Nov. 22nd)
+        <p>Smash product of spectra (Nov. 22nd)
         </p>
         <p>
             Abstract: We discuss what information is encoded in a map of infinity-operads using only its definition. We give a definition of Day convolution on functor infinity-categories, and apply it to produce the smash product of pointed Kan complexes and the smash product of spectra.
