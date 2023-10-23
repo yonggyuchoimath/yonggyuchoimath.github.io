@@ -10,11 +10,11 @@ nav_order: 5
 <table>
 <tr>
     <td id="CV_date">Fall 2023</td>
-    <td>TA for Calculus II (MAS102), Linear algebra (MAS212), KAIST</td>
+    <td>TA for Calculus II (MAS102), Linear Algebra (MAS212), KAIST</td>
 </tr>
 <tr>
     <td id="CV_date">Spring 2023</td>
-    <td>TA for Calculus II (MAS102), Linear algebra (MAS212) and grader for Algebra I (MAS511), KAIST</td>
+    <td>TA for Calculus II (MAS102), Linear Algebra (MAS212) and grader for Algebra I (MAS511), KAIST</td>
 </tr>
 <tr>
     <td id="CV_date">Fall 2022</td>
@@ -26,7 +26,7 @@ nav_order: 5
 </tr>
 <tr>
     <td id="CV_date">Fall 2021</td>
-    <td>TA for Calculus II (MAS102), and Linear algebra (MAS212), KAIST</td>
+    <td>TA for Calculus II (MAS102), and Linear Algebra (MAS212), KAIST</td>
 </tr>
 <tr>
     <td id="CV_date">Spring 2021</td>
@@ -34,7 +34,7 @@ nav_order: 5
 </tr>
 <tr>
     <td id="CV_date">Fall 2020</td>
-    <td>TA for Introduction to algebraic geometry (MAS441), KAIST</td>
+    <td>TA for Introduction to Algebraic Geometry (MAS441), KAIST</td>
 </tr>
 <tr>
     <td id="CV_date">Spring 2020</td>
