@@ -19,5 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome! My name is Yong-Gyu Choi. I am a doctoral student (as a part of integrated master's/doctoral program) at <a href="https://mathsci.kaist.ac.kr/">Department of Mathematical Sciences</a> in <a href="https://www.kaist.ac.kr/">KAIST</a>. I study number theory and arithmetic geometry under supervision of Prof. <a href="https://sites.google.com/site/wansukimmaths/">Wansu Kim</a>.
+Welcome! My name is Yong-Gyu Choi. I am a doctoral student (as a part of integrated master's/doctoral program) at <a href="https://mathsci.kaist.ac.kr/">Department of Mathematical Sciences</a> in <a href="https://www.kaist.ac.kr/">KAIST</a>. I study number theory and arithmetic geometry under supervision of Prof. <a href="https://sites.google.com/site/wansukimmaths/">Wansu Kim</a>. <br>
 
+Email: <a href="mailto:yonggyuchoimath@google.com">yonggyuchoimath@google.com</a>

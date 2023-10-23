@@ -22,7 +22,7 @@ nav_order: 5
 </tr>
 <tr>
     <td id="CV_date">Spring 2022</td>
-    <td>TA for Modern Algebra (MAS311), KAIST</td>
+    <td>TA for Modern Algebra I (MAS311), KAIST</td>
 </tr>
 <tr>
     <td id="CV_date">Fall 2021</td>
