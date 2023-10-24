@@ -6,14 +6,15 @@ subtitle:
 
 profile:
   align: right
-  image: 
+  image: IMG_3704.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>#3423</p>
-    <p>Natural Science Building (E6-1)</p>
-    <p>KAIST, 291 Daehak-ro</p>
-    <p>Yuseong-gu</p>
-    <p>Daejeon, Republic of Korea (South) 34141</p>
+    <p>#3423,</p>
+    <p>Natural Science Building (E6-1),</p>
+    <p>KAIST, 291 Daehak-ro,</p>
+    <p>Yuseong-gu,</p>
+    <p>Daejeon, Republic of Korea (South),</p>
+    <p>34141</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

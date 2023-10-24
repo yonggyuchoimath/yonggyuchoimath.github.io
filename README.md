@@ -1,5 +1,6 @@
 <!-- 
 To run the site, run the following command on cmd:
+
 bundle install
 bundle exec jekyll serve --lsi
 -->
