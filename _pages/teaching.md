@@ -49,3 +49,4 @@ nav_order: 5
     <td>TA for Calculus I (MAS101), KAIST</td>
 </tr>
 </table>
+TA = Teaching Assistant
