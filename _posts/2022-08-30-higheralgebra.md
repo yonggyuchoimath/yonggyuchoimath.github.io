@@ -123,5 +123,4 @@ date:   2022-08-30
     <li>Jacob Lurie, <i>Higher topos theory</i>, <a href="https://www.math.ias.edu/~lurie/papers/HTT.pdf">https://www.math.ias.edu/~lurie/papers/HTT.pdf</a>, April 2017</li>
     <li>Jacob Lurie, <i>Higher algebra</i>, <a href="https://www.math.ias.edu/~lurie/papers/HA.pdf">https://www.math.ias.edu/~lurie/papers/HA.pdf</a>, September 18, 2017</li>
     <li>Jacob Lurie, <i>Spectral algebraic geometry (under construction!)</i>, <a href="https://www.math.ias.edu/~lurie/papers/SAG-rootfile.pdf">https://www.math.ias.edu/~lurie/papers/SAG-rootfile.pdf</a>, February 3, 2018</li>
-    <a href="./assets/pdf/Yong-Gyu Choi, Proposal defense slide, 2nd draft.pdf">dd</a>.
 </ol>
