@@ -13,7 +13,7 @@ date:   2022-08-30
 <ol>
     <li>
         <p>
-            Motivating example (Aug. 30th)
+            Motivating example (Aug. 30th) 
         </p>
         <p>
             Abstract: This talk is the very first talk for a semester long series on higher algebra. Higher algebra is the study of algebraic objects in spaces, correcting abnormal behavior of classical homological algebra and incorporating spheres into algebra. In this talk, we will see a concrete example of a higher-algebraic structure on singular cochains, and what structures are needed to formalize such structures with concrete diagrams. We assume familiarity with algebraic topology, category theory and homological algebra (at the first year graduate level).
