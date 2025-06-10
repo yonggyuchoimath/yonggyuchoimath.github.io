@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
+first_name: Yong-Gyu
 middle_name: R.
-last_name: Name
+last_name: Choi
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: seminars # blog_name will be displayed in your blog page
+blog_description: math seminars that I organized or gave multiple talks in my graduate studies
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Choi]
+  first_name: [Yong-Gyu]
 
   style: apa
   locale: en
