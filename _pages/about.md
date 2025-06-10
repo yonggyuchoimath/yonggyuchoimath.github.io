@@ -2,16 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #<a href='https://www.kaist.ac.kr'>KAIST</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 11.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>#3423,</p>
+    <p>Natural Science Building (E6-1),</p>
+    <p>KAIST, 291 Daehak-ro,</p>
+    <p>Yuseong-gu,</p>
+    <p>Daejeon, Republic of Korea (South),</p>
+    <p>34141</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +30,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! My name is Yong-Gyu Choi. I am a doctoral student at <a href="https://mathsci.kaist.ac.kr/">Department of Mathematical Sciences</a> in <a href="https://www.kaist.ac.kr/">KAIST</a>. I study number theory and arithmetic geometry under supervision of Prof. <a href="https://sites.google.com/site/wansukimmaths/">Wansu Kim</a>. My dissertation was successfully defended on 29th May, 2025. <br>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Email: <a href="mailto:yonggyuchoimath@google.com">yonggyuchoimath@google.com</a>
