@@ -32,4 +32,6 @@ latest_posts:
 
 Welcome! My name is Yong-Gyu Choi. I am a doctoral student at <a href="https://mathsci.kaist.ac.kr/">Department of Mathematical Sciences</a> in <a href="https://www.kaist.ac.kr/">KAIST</a>. I study number theory and arithmetic geometry under supervision of Prof. <a href="https://sites.google.com/site/wansukimmaths/">Wansu Kim</a>. My dissertation was successfully defended on 29th May, 2025. <br>
 
-Email: <a href="mailto:yonggyuchoimath@google.com">yonggyuchoimath@google.com</a>
+Email: <a href="mailto:yonggyuchoimath@google.com">yonggyuchoimath@google.com</a> <br>
+
+Warning: This site is under construction.
